@@ -1,6 +1,6 @@
 # QKart - E-Commerce Platform
 
-![QKart Logo](public/logo_light.svg)
+![QKart Logo](public/logo_dark.svg)
 
 QKart is a full-stack e-commerce platform built with React, Material-UI, and Node.js, featuring product browsing, cart management, user authentication, and checkout functionality.
 
